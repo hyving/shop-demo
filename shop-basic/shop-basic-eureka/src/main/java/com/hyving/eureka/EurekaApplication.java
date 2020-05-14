@@ -1,4 +1,4 @@
-package com.hyving.shop.springcloud.eureka;
+package com.hyving.eureka;
 
 
 import org.springframework.boot.SpringApplication;

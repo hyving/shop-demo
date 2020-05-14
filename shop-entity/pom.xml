@@ -9,11 +9,11 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>shop-service-impl</artifactId>
+    <artifactId>shop-entity</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>shop-service-weixin</module>
-        <module>shop-service-member</module>
+        <module>shop-entity-weixin</module>
+        <module>shop-entity-member</module>
     </modules>
 
 

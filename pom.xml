@@ -12,6 +12,7 @@
         <module>shop-basic</module>
         <module>shop-service-api</module>
         <module>shop-service-impl</module>
+        <module>shop-entity</module>
     </modules>
 
 
